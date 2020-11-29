@@ -3,9 +3,9 @@
 Plugin Name: Share LinkedIn
 Plugin URI: https://github.com/popnt/yourls-linkedin-share
 Description: Adds LinkedIn to the Quick Share Box. 
-Version: 1.0
+Version: 1.0.0.1
 Author: Julia Greaven
-Author URI: http://popnt.com
+Author URI: //popnt.com
 */
 
 
